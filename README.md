@@ -5,5 +5,4 @@
 * 😄 Pronouns: She/Her/Hers
 * ⚡ Fun fact: I love Documentaries and Commedy
   
-Connect with me: __grazia grazia_edumaba_graham __grazia
 Languages and Tools: python excel sql power bi git
