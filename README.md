@@ -5,4 +5,4 @@
 * 😄 Pronouns: She/Her/Hers
 * ⚡ Fun fact: I love Documentaries and Commedy
   
-Languages and Tools: python excel sql power bi git
+Languages and Tools: python/excel/sql/power bi/git
